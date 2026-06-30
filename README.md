@@ -13,7 +13,7 @@ Clean and Modular Code Architecture
 
 Tech Stack:
 
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Java, Spring Boot
+Frontend: HTML, CSS
+Backend: Java
 Database: MySQL
 Version Control: Git & GitHub
